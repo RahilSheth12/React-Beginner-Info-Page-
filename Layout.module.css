@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+}
+
+.main {
+    width: 550px;
+    height: 868px;
+    background: #23252C;
+    border-style: groove;
+    border-width: 5px;
+    border-color: rgb(0, 101, 164);
+    border-radius: 25px 25px 25px 25px;
+}
